@@ -1,6 +1,6 @@
 {
   "name": "mewe-better-post-format",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A Userstyle for MeWe.com to make your streams show full posts without a 'See more' link to expand. Render HTML headers properly (loosely based on Bootstrap). Indents blockquotes and reduces the size of its border.",
   "main": "index.js",
   "scripts": {
