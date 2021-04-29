@@ -1,0 +1,19 @@
+{
+  "name": "mewe-better-post-format",
+  "version": "0.0.1",
+  "description": "A Userstyle for MeWe.com to make your streams show full posts without a 'See more' link to expand. Render HTML headers properly (loosely based on Bootstrap). Indents blockquotes and reduces the size of its border.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-guertin/mewe-better-post-format.git"
+  },
+  "author": "kevin-guertin (https://kevin-guertin.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevin-guertin/mewe-better-post-format/issues"
+  },
+  "homepage": "https://github.com/kevin-guertin/mewe-better-post-format#readme"
+}
