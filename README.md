@@ -16,6 +16,8 @@ Refresh any MeWe tabs if the style did not take effect immediately.
 
 This Userstyle is available on userstyles org [here](https://userstyles.org/styles/181307/), but I highly recommend you to use the UserCSS version here instead.
 
+## Issues
+
 ### Not working anymore or something is broken?
 
 Report any issues [here](https://github.com/kevin-guertin/mewe-fluid-userstyle/issues).
