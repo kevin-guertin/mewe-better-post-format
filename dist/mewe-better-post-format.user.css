@@ -1,10 +1,11 @@
 /* ==UserStyle==
 @name         MeWe Better Post Format
 @namespace    https://kevin-guertin.github.io
-@version      1.0.0
+@version      1.0.1
 @description  A Userstyle for MeWe.com to make your streams show full posts without a "See more" link to expand. Render HTML headers properly (loosely based on Bootstrap). Indents blockquotes and reduces the size of its border.
 @author       kevin-guertin (https://kevin-guertin.github.io)
 @homepageURL  https://github.com/kevin-guertin/mewe-better-post-format
+@supportURL   https://github.com/kevin-guertin/mewe-better-post-format/issues
 @updateURL    https://raw.githubusercontent.com/kevin-guertin/mewe-better-post-format/main/dist/mewe-better-post-format.user.css
 @license      MIT
 @preprocessor default
