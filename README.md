@@ -6,19 +6,19 @@ _A Userstyle for MeWe.com to make your streams show full posts without a "See mo
 
 ## Installation
 
-A Userstyle extension is required, I recommend using **_Stylus for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)_**.
+A Userstyle extension is required. I highly recommend using **_Stylus for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)_**.
 
 Then, click on the "📦 UserCSS file" link above, then click "Install style" on the left. I highly recommend enabling checking for updates.
 
-Refresh any MeWe tabs.
+Refresh any MeWe tabs if the style did not take effect immediately.
 
 ### Install This Theme at UserStyles.org
 
 This Userstyle is available on userstyles org [here](https://userstyles.org/styles/181307/), but I highly recommend you to use the UserCSS version here instead.
 
-## Pull Requests Are Welcomed
+### Not working anymore or something is broken?
 
-Want to improve this User Style? I'll gladly accept Pull Requests.
+Report any issues [here](https://github.com/kevin-guertin/mewe-fluid-userstyle/issues).
 
 ## License
 
